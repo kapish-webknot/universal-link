@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.com.launchverse.app.dev",
+        "appID": "2Z92CLB888.com.launchverse.app.dev",
         "paths": [
           "/hunts/*",
           "/reset-password",
@@ -12,7 +12,7 @@
         ]
       },
       {
-        "appID": "TEAM_ID.com.launchverse.app.uat",
+        "appID": "2Z92CLB888.com.launchverse.app.uat",
         "paths": [
           "/hunts/*",
           "/reset-password",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "appID": "TEAM_ID.com.launchverse.app",
+        "appID": "2Z92CLB888.com.launchverse.app",
         "paths": [
           "/hunts/*",
           "/reset-password",
