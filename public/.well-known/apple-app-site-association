@@ -6,8 +6,8 @@
         "appID": "2Z92CLB888.com.launchverse.app.dev",
         "paths": [
           "/hunts/*",
-          "/reset-password",
-          "/verify-email",
+          "/reset-password*",
+          "/verify-email*",
           "/profile/*"
         ]
       },
@@ -15,8 +15,8 @@
         "appID": "2Z92CLB888.com.launchverse.app.uat",
         "paths": [
           "/hunts/*",
-          "/reset-password",
-          "/verify-email",
+          "/reset-password*",
+          "/verify-email*",
           "/profile/*"
         ]
       },
@@ -24,8 +24,8 @@
         "appID": "2Z92CLB888.com.launchverse.app",
         "paths": [
           "/hunts/*",
-          "/reset-password",
-          "/verify-email",
+          "/reset-password*",
+          "/verify-email*",
           "/profile/*"
         ]
       }
