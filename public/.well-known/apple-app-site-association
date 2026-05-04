@@ -5,6 +5,8 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app.dev",
         "paths": [
+          "/challenges/*/submissions/*/watch",
+          "/hunts/*/video/*",
           "/hunts/*",
           "/reset-password*",
           "/verify-email*",
@@ -14,6 +16,8 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app.uat",
         "paths": [
+          "/challenges/*/submissions/*/watch",
+          "/hunts/*/video/*",
           "/hunts/*",
           "/reset-password*",
           "/verify-email*",
@@ -23,6 +27,8 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app",
         "paths": [
+          "/challenges/*/submissions/*/watch",
+          "/hunts/*/video/*",
           "/hunts/*",
           "/reset-password*",
           "/verify-email*",
