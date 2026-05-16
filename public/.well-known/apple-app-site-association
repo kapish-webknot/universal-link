@@ -5,6 +5,7 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app.dev",
         "paths": [
+          "/navigate*",
           "/watch/*",
           "/hunts/*/video/*",
           "/hunts/*",
@@ -16,6 +17,7 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app.uat",
         "paths": [
+          "/navigate*",
           "/watch/*",
           "/hunts/*/video/*",
           "/hunts/*",
@@ -27,6 +29,7 @@
       {
         "appID": "2Z92CLB888.com.launchverse.app",
         "paths": [
+          "/navigate*",
           "/watch/*",
           "/hunts/*/video/*",
           "/hunts/*",
